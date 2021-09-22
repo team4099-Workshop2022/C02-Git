@@ -1,0 +1,3 @@
+If you are reading this that means you have successfully cloned the repository!
+Now you should create your own text file with your name in it and push it to its own branch.
+Hopefully you paid attention and know how ;)
